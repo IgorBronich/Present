@@ -1,4 +1,4 @@
-package model;
+package com.epam.candies.model;
 
 public abstract class Candy {
     private String name;

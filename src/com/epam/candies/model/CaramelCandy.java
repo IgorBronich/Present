@@ -1,4 +1,4 @@
-package model;
+package com.epam.candies.model;
 
 public class CaramelCandy extends Candy {
     private String caramelTaste;

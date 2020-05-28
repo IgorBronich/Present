@@ -1,4 +1,4 @@
-package model;
+package com.epam.candies.model;
 
 public class CandyBar extends Candy {
     private String barShape;
